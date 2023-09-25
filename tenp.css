@@ -1,0 +1,23 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+form {
+  display: flex;
+  width: 50vw;
+  max-width: 1000px;
+  justify-content: center;
+  max-width: 80vw;
+  height: 40px;
+}
+
+input {
+  flex: 1;
+  max-width: 100%;
+}
+
+button {
+  max-width: 100%;
+}

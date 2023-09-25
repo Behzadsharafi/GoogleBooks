@@ -1,0 +1,31 @@
+@use "../../partials/mixins.scss";
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+
+  & img {
+    width: 100%;
+  }
+
+  & h1 {
+    @include mixins.desktop_sm {
+      font-size: 1.5rem;
+      transition: font-size 0.3s;
+    }
+    @include mixins.tablet {
+      font-size: 1.3rem;
+      transition: font-size 0.3s;
+    }
+    @include mixins.phone {
+      font-size: 1rem;
+      transition: font-size 0.3s;
+    }
+    @include mixins.phone_sm {
+      font-size: 0.9rem;
+      transition: font-size 0.3s;
+    }
+  }
+}

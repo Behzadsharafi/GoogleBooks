@@ -1,0 +1,33 @@
+.bookCard {
+  display: flex;
+  gap: 5px;
+  height: 230px;
+  width: 310px;
+  box-shadow: 2px 3px 11px 0px rgba(0, 0, 0, 0.6);
+  border-radius: 5px;
+  transition: transform 0.3s;
+  padding: 15px;
+  justify-content: space-between;
+  align-items: center;
+  overflow: auto;
+
+  &:hover {
+    transform: scale(1.04);
+  }
+
+  &__details {
+    display: flex;
+    flex-direction: column;
+    justify-content: baseline;
+  }
+
+  & p span {
+    font-weight: bold;
+  }
+
+  & img {
+    height: 90%;
+    width: 40%;
+    box-shadow: 2px 3px 11px 0px rgba(0, 0, 0, 0.6);
+  }
+}

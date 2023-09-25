@@ -1,0 +1,53 @@
+@use "../../partials/palette.scss";
+@use "../../partials/mixins.scss";
+
+.overlay {
+  height: 100vh;
+  width: 100vw;
+  background-color: rgb(0, 0, 0, 0.7);
+  opacity: 0.7;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+}
+
+.card {
+  display: flex;
+  gap: 15px;
+  padding: 15px;
+  justify-content: space-between;
+  align-items: center;
+  width: 800px;
+  max-width: 60vw;
+  background-color: palette.$bg-color;
+  z-index: 2;
+  position: fixed;
+  top: 15vh;
+  border-radius: 5px;
+
+  @include mixins.phone {
+  }
+
+  &__title {
+    margin: 0;
+  }
+
+  &__details {
+    display: flex;
+    flex-direction: column;
+    justify-content: baseline;
+    overflow: auto;
+    max-height: 60vh;
+  }
+
+  & p span {
+    font-weight: bold;
+  }
+
+  &__image {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+}

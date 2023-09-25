@@ -1,0 +1,1631 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2555,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "ltd5tgEACAAJ",
+      "etag": "nGXuJg9+LVA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ltd5tgEACAAJ",
+      "volumeInfo": {
+        "title": "Hello, Australia!",
+        "authors": ["McKean Megan"],
+        "publishedDate": "2018-10",
+        "description": "Join a bunch of cheeky galahs in the latest look-and-find adventure in the Hello...! series. This time we're taking a trip around Australia to discover more about the animals, birds and plants that live here. Along the way, you'll meet some very friendly quokkas, take a ferry to Kangaroo Island, marvel at the Big Things and learn about some places that are sacred to the traditional owners of the land. From sunny Queensland to the ski fields of Victoria, there's so much to see and do around Australia.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1760760218"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781760760212"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ltd5tgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ltd5tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.au/books?id=ltd5tgEACAAJ&dq=hello&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.au/books?id=ltd5tgEACAAJ&dq=hello&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hello_Australia.html?hl=&id=ltd5tgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "AU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "AU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ltd5tgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Join a bunch of cheeky galahs in the latest look-and-find adventure in the Hello...! series."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zuOSwgEACAAJ",
+      "etag": "yN3DecgLcrg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zuOSwgEACAAJ",
+      "volumeInfo": {
+        "title": "Goodbye Winter, Hello Spring",
+        "authors": ["Kenard Pak"],
+        "publisher": "Henry Holt and Company (BYR)",
+        "publishedDate": "2020-02-18",
+        "description": "As days stretch longer, animals creep out from their warm dens, and green begins to grow again, everyone knows—spring is on its way! Join a boy and his dog as they explore nature and take a stroll through the countryside, greeting all the signs of the coming season. In a series of conversations with everything from the melting brook to chirping birds, they say goodbye to winter and welcome the lushness of spring.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1250151724"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781250151728"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "categories": ["Juvenile Fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zuOSwgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zuOSwgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.au/books?id=zuOSwgEACAAJ&dq=hello&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.au/books?id=zuOSwgEACAAJ&dq=hello&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Goodbye_Winter_Hello_Spring.html?hl=&id=zuOSwgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "AU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "AU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zuOSwgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In a simple, cheerful conversation with nature, a young boy observes how the season changes from winter to spring in Kenard Pak&#39;s Goodbye Winter, Hello Spring."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VunJCgAAQBAJ",
+      "etag": "bCzsHs9LccY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VunJCgAAQBAJ",
+      "volumeInfo": {
+        "title": "Hello, Startup",
+        "subtitle": "A Programmer's Guide to Building Products, Technologies, and Teams",
+        "authors": ["Yevgeniy Brikman"],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2015-10-21",
+        "description": "This book is the \"Hello, World\" tutorial for building products, technologies, and teams in a startup environment. It's based on the experiences of the author, Yevgeniy (Jim) Brikman, as well as interviews with programmers from some of the most successful startups of the last decade, including Google, Facebook, LinkedIn, Twitter, GitHub, Stripe, Instagram, AdMob, Pinterest, and many others. Hello, Startup is a practical, how-to guide that consists of three parts: Products, Technologies, and Teams. Although at its core, this is a book for programmers, by programmers, only Part II (Technologies) is significantly technical, while the rest should be accessible to technical and non-technical audiences alike. If you’re at all interested in startups—whether you’re a programmer at the beginning of your career, a seasoned developer bored with large company politics, or a manager looking to motivate your engineers—this book is for you.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781491910054"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1491910054"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 599,
+        "printType": "BOOK",
+        "categories": ["Business & Economics"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VunJCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VunJCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.au/books?id=VunJCgAAQBAJ&printsec=frontcover&dq=hello&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.au/books?id=VunJCgAAQBAJ&dq=hello&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hello_Startup.html?hl=&id=VunJCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "AU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "AU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VunJCgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book is the &quot;Hello, World&quot; tutorial for building products, technologies, and teams in a startup environment."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QsM1AIVuhq4C",
+      "etag": "RZEZs/9FoJg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QsM1AIVuhq4C",
+      "volumeInfo": {
+        "title": "Have Him at Hello",
+        "subtitle": "Confessions from 1,000 Guys About What Makes Them Fall in Love . . . Or Never Call Back",
+        "authors": ["Rachel Greenwald"],
+        "publisher": "Harmony",
+        "publishedDate": "2010-03-30",
+        "description": "There’s a reason the media has dubbed matchmaker Rachel Greenwald as “The Wife Maker.” Yes, she’s responsible for over 750 marriages, but more importantly, she has solved perhaps the biggest dating mystery of all time: when you finally meet Mr. Right (or even Mr. Potential), what really compels him to call back (or not) after a date? Armed with her Harvard MBA, Rachel embarked on a fascinating ten-year research project to decipher this puzzle. In Have Him at Hello, she applies her business savvy to the dating world by conducting in-depth “exit interviews” with 1,000 single men, asking why they called back one woman, but not another. By refusing to accept the post-date brush-off like “There wasn’t any chemistry…” or the excited, but equally vague evening recap, “We hit it off!” Rachel extracted unabashedly honest and raw details. It turns out there are clear, tangible, consistent reasons why marriage-minded men either fall for you or disappear. The surprising “Top 5 Date Makers” and “Top 10 Date Breakers” revealed in this book can actually change your fate when Mr. Right finally comes along. Rachel’s goal isn’t for you to pretend to be someone you’re not, but rather to keep the ball in your court. By using her innovative research and tips as a guide, more men will ask to see you again ; then you can do the selecting, rather than wondering if they’ll call. Because information is power, this book will make your first hello a lasting one.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780307720634"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0307720632"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": ["Family & Relationships"],
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.4.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QsM1AIVuhq4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QsM1AIVuhq4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.au/books?id=QsM1AIVuhq4C&pg=PA267&dq=hello&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=QsM1AIVuhq4C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QsM1AIVuhq4C"
+      },
+      "saleInfo": {
+        "country": "AU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 20.12,
+          "currencyCode": "AUD"
+        },
+        "retailPrice": {
+          "amount": 20.12,
+          "currencyCode": "AUD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=QsM1AIVuhq4C&rdid=book-QsM1AIVuhq4C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 20120000,
+              "currencyCode": "AUD"
+            },
+            "retailPrice": {
+              "amountInMicros": 20120000,
+              "currencyCode": "AUD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "AU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.au/books/download/Have_Him_at_Hello-sample-epub.acsm?id=QsM1AIVuhq4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.au/books/download/Have_Him_at_Hello-sample-pdf.acsm?id=QsM1AIVuhq4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QsM1AIVuhq4C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... of your true stories recalled earlier: “I had a great day today! The highlight was going to the zoo with my college roommate whose dad died last year. She&#39;s having a hard time coping, so I wanted to cheer Have Him at <b>Hello</b> | 267."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UUFADwAAQBAJ",
+      "etag": "k3OMmghpfnw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UUFADwAAQBAJ",
+      "volumeInfo": {
+        "title": "Hello World",
+        "subtitle": "",
+        "authors": ["Murray Ewing"],
+        "publisher": "Bookship",
+        "publishedDate": "2017-11-08",
+        "description": "It’s 1984, and 13-year-old Tim is sitting on the school roof, waiting for the world to end. Or at least for it to start making sense. His life used to make sense. It was made up of two things: the exciting new world of home computers, and worries about nuclear war. There were certainly no girls in it. But then he met Penny, who’s into pop music, and somehow manages to be optimistic about life, despite having a very difficult mother. (Difficult, as in, she sometimes throws roof tiles at people.) For the first time since the death of his own mother three years ago, Tim starts to see a whole new possibility in life. Then he loses Penny. So what else is there to do but climb onto the school roof and wait for the world to end?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780993423932"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0993423930"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 266,
+        "printType": "BOOK",
+        "categories": ["Fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UUFADwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UUFADwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.au/books?id=UUFADwAAQBAJ&pg=PT50&dq=hello&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=UUFADwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=UUFADwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "AU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 8.25,
+          "currencyCode": "AUD"
+        },
+        "retailPrice": {
+          "amount": 8.25,
+          "currencyCode": "AUD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=UUFADwAAQBAJ&rdid=book-UUFADwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 8250000,
+              "currencyCode": "AUD"
+            },
+            "retailPrice": {
+              "amountInMicros": 8250000,
+              "currencyCode": "AUD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "AU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.au/books/download/Hello_World-sample-epub.acsm?id=UUFADwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UUFADwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Hello</b> Penny! <b>Hello</b> Penny!&#39; over and over again. &#39;Wow! It&#39;s saying <b>hello</b> to me.&#39; She seemed genuinely touched. &#39;Only because I told it to,&#39; I said. &#39;Computers just do what you tell them to.&#39; I added a few lines to make the &#39;<b>Hello</b> Penny&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xJNFDwAAQBAJ",
+      "etag": "K6HfJe7IHf4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xJNFDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Hello Hello",
+        "authors": ["Brendan Wenzel"],
+        "publisher": "Chronicle Books",
+        "publishedDate": "2018-03-20",
+        "description": "In simple text a set of animals, each one linked to the previous one by some trait of shape, color, or pattern, greet and interact with one another.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781452174181"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1452174180"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 49,
+        "printType": "BOOK",
+        "categories": ["Juvenile Fiction"],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xJNFDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xJNFDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.au/books?id=xJNFDwAAQBAJ&printsec=frontcover&dq=hello&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.au/books?id=xJNFDwAAQBAJ&dq=hello&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hello_Hello.html?hl=&id=xJNFDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "AU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "AU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.au/books/download/Hello_Hello-sample-pdf.acsm?id=xJNFDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xJNFDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In simple text a set of animals, each one linked to the previous one by some trait of shape, color, or pattern, greet and interact with one another."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LZmyDwAAQBAJ",
+      "etag": "UEN3211z5+M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LZmyDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Hello, Summer",
+        "subtitle": "A Novel",
+        "authors": ["Mary Kay Andrews"],
+        "publisher": "St. Martin's Press",
+        "publishedDate": "2020-05-05",
+        "description": "New York Times bestselling author and Queen of the Beach Reads Mary Kay Andrews delivers her next blockbuster, Hello Summer. It’s a new season... Conley Hawkins left her family’s small town newspaper, The Silver Bay Beacon, in the rearview mirror years ago. Now a star reporter for a big-city paper, Conley is exactly where she wants to be and is about to take a fancy new position in Washington, D.C. Or so she thinks. For small town scandals... When the new job goes up in smoke, Conley finds herself right back where she started, working for her sister, who is trying to keep The Silver Bay Beacon afloat—and she doesn’t exactly have warm feelings for Conley. Soon she is given the unenviable task of overseeing the local gossip column, “Hello, Summer.” And big-time secrets. Then Conley witnesses an accident that ends in the death of a local congressman—a beloved war hero with a shady past. The more she digs into the story, the more dangerous it gets. As an old heartbreaker causes trouble and a new flame ignites, it soon looks like their sleepy beach town is the most scandalous hotspot of the summer.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781250256898"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1250256895"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 555,
+        "printType": "BOOK",
+        "categories": ["Fiction"],
+        "averageRating": 4,
+        "ratingsCount": 19,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.9.9.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LZmyDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LZmyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.au/books?id=LZmyDwAAQBAJ&pg=PT546&dq=hello&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=LZmyDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=LZmyDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "AU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 13.96,
+          "currencyCode": "AUD"
+        },
+        "retailPrice": {
+          "amount": 13.96,
+          "currencyCode": "AUD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=LZmyDwAAQBAJ&rdid=book-LZmyDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 13960000,
+              "currencyCode": "AUD"
+            },
+            "retailPrice": {
+              "amountInMicros": 13960000,
+              "currencyCode": "AUD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "AU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.au/books/download/Hello_Summer-sample-epub.acsm?id=LZmyDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LZmyDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Hello</b>, Summer is filled with family dynamics, quirky characters, a juicy political story for Conley to chase, and a flame from her past. A perfect beach read, quarantine read, or wherever read. I really enjoyed it and recommend to fans&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ho1oDwAAQBAJ",
+      "etag": "O/CYb6ySFm8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ho1oDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Hello, Tomorrow!",
+        "subtitle": "The Transformational Power of Vision",
+        "authors": ["Cindy Trimm"],
+        "publisher": "Charisma Media",
+        "publishedDate": "2018-09-04",
+        "description": "This book will help me craft my future by teaching me to make declarations from God’s Word that will set in motion His plan for my life and motivate me to believe good things from a good God so I can fulfill my destiny.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781629995502"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1629995509"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": ["Religion"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Ho1oDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Ho1oDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.au/books?id=Ho1oDwAAQBAJ&pg=PT7&dq=hello&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Ho1oDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Ho1oDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "AU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 28.05,
+          "currencyCode": "AUD"
+        },
+        "retailPrice": {
+          "amount": 28.05,
+          "currencyCode": "AUD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Ho1oDwAAQBAJ&rdid=book-Ho1oDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 28050000,
+              "currencyCode": "AUD"
+            },
+            "retailPrice": {
+              "amountInMicros": 28050000,
+              "currencyCode": "AUD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "AU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.au/books/download/Hello_Tomorrow-sample-epub.acsm?id=Ho1oDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.au/books/download/Hello_Tomorrow-sample-pdf.acsm?id=Ho1oDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ho1oDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>hello</b> was originally used as a call to attract attention. It is an alteration of hallo, which comes from a fifteenth-century word meaning “a shipman&#39;s cry to incite effort.” <b>Hello</b> gained popularity as a word with the rise of the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DjszEAAAQBAJ",
+      "etag": "9KlyYphn0d4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DjszEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Hello! Flex 4",
+        "authors": ["Peter Armstrong"],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2009-10-31",
+        "description": "Flex 4 is an open-source tool that allows developers to easily add life to web applications with dynamic user features, colorful transitions, and eye-catching animations. Flex also provides powerful data handling for industrial-strength applications. We think it should be just as much fun to learn Flex as it is to use it. And we know that fun learning gets better results. Hello! Flex 4 demonstrates how to get started without getting bogged down in technical detail or academic edge cases. In this book, User Friendly cartoon characters offer commentary and snide side comments, as the book moves quickly from Hello World into practical techniques. Each one is illustrated with a hands-on example. Along the way, readers will build a unique Flex application that mashes Yahoo Maps with Twitter to keep track of friends. Purchase of the print book comes with an offer of a free PDF, ePub, and Kindle eBook from Manning. Also available is all code from the book.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781638354352"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1638354359"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 337,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DjszEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DjszEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.au/books?id=DjszEAAAQBAJ&pg=PT19&dq=hello&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=DjszEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=DjszEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "AU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 39.99,
+          "currencyCode": "AUD"
+        },
+        "retailPrice": {
+          "amount": 39.99,
+          "currencyCode": "AUD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=DjszEAAAQBAJ&rdid=book-DjszEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 39990000,
+              "currencyCode": "AUD"
+            },
+            "retailPrice": {
+              "amountInMicros": 39990000,
+              "currencyCode": "AUD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "AU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.au/books/download/Hello_Flex_4-sample-epub.acsm?id=DjszEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DjszEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Hello</b>! Flex 3. Over the course of 2008, I wrote six chapters of <b>Hello</b>! Flex 3, using the same iterative code example format that I had used in Flexible Rails, but with the addition of cartoons. I also wrote two chapters of Enterprise&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "W_QZyikOWOQC",
+      "etag": "IUXcGSqTz5g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/W_QZyikOWOQC",
+      "volumeInfo": {
+        "title": "Saying Hello; Waving Goodbye",
+        "subtitle": "To This Wonderful Thing Called Life",
+        "authors": ["Nancy Hoch"],
+        "publisher": "iUniverse",
+        "publishedDate": "2006-12",
+        "description": "Remarkable scientific research, mapping the human genome, reveals how similar we all are to each other. Only a tiny fraction of difference separates us one from another. Each of us says \"Hello\" to our individual experience here on earth, and each of us will ultimately and assuredly say \"Goodbye.\" Between those landmark events in our lives, there are all kinds and types of \"Hellos\" and \"Goodbyes,\" some happy; some sad; some funny-and all part of the amazing school called life. This book awakens us to both the glitter, and sometimes the gloom, that life presents on an almost daily basis. It awakens a realization that life is truly important and meaningful, and that each day is a gift to be opened and treasured.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780595420186"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0595420184"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 214,
+        "printType": "BOOK",
+        "categories": ["Biography & Autobiography"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=W_QZyikOWOQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=W_QZyikOWOQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.au/books?id=W_QZyikOWOQC&pg=PA86&dq=hello&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.au/books?id=W_QZyikOWOQC&dq=hello&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Saying_Hello_Waving_Goodbye.html?hl=&id=W_QZyikOWOQC"
+      },
+      "saleInfo": {
+        "country": "AU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "AU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.au/books/download/Saying_Hello_Waving_Goodbye-sample-epub.acsm?id=W_QZyikOWOQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.au/books/download/Saying_Hello_Waving_Goodbye-sample-pdf.acsm?id=W_QZyikOWOQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=W_QZyikOWOQC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Hello</b>” to everyone. He reached out to every one of his classmates kids that were known as “stoners” and “losers,” as well as the “the )1 a popular kids, the bookworms,” and the “sports jocks.” In so doing, he came to genuinely like just&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yq8wb7lQJ-EC",
+      "etag": "bwFkZtpggwI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yq8wb7lQJ-EC",
+      "volumeInfo": {
+        "title": "Hello, Hello Brazil",
+        "subtitle": "Popular Music in the Making of Modern Brazil",
+        "authors": ["Bryan McCann"],
+        "publisher": "Duke University Press",
+        "publishedDate": "2004-05-04",
+        "description": "DIVA study of the foundation of Brazilian popular music and its effect on the formation of national identity and cultural expression./div",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0822332736"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780822332732"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 324,
+        "printType": "BOOK",
+        "categories": ["History"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yq8wb7lQJ-EC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yq8wb7lQJ-EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.au/books?id=yq8wb7lQJ-EC&pg=PT8&dq=hello&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.au/books?id=yq8wb7lQJ-EC&dq=hello&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hello_Hello_Brazil.html?hl=&id=yq8wb7lQJ-EC"
+      },
+      "saleInfo": {
+        "country": "AU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "AU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yq8wb7lQJ-EC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Hello</b> , <b>Hello</b> Brazil is a fascinating discussion of Brazilian popular culture based on a set of documents virtually unmentioned in English - language scholarship . The topics covered - music , the music market , advertising , and fans&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YYJnAQAAQBAJ",
+      "etag": "qUG3kTO6P48",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YYJnAQAAQBAJ",
+      "volumeInfo": {
+        "title": "Hello!!",
+        "authors": ["Debbie Lacy"],
+        "publisher": "BookRix",
+        "publishedDate": "2017-04-25",
+        "description": "Chili Fontenot browsed some of the nifty shops in the New Orleans French Quarter one day and encountered a strange old woman who sold electronic devices. Intriguingly, she became quite enchanted by a remarkable offer from the old woman for an affortable price, only to find that being terrified by this device was not a very good price to pay.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783730933176"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3730933175"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 19,
+        "printType": "BOOK",
+        "categories": ["Fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.11.12.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YYJnAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YYJnAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.au/books?id=YYJnAQAAQBAJ&pg=PT6&dq=hello&hl=&cd=12&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=YYJnAQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=YYJnAQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "AU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5.99,
+          "currencyCode": "AUD"
+        },
+        "retailPrice": {
+          "amount": 5.99,
+          "currencyCode": "AUD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=YYJnAQAAQBAJ&rdid=book-YYJnAQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "AUD"
+            },
+            "retailPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "AUD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "AU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.au/books/download/Hello-sample-epub.acsm?id=YYJnAQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.au/books/download/Hello-sample-pdf.acsm?id=YYJnAQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YYJnAQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Debbie Lacy. quickly glancing at the phone. “<b>Hello</b>! <b>Hello</b>! Who is this?” She panicked nearly having an accident turning in front of an oncoming car while pulling into her office-building parking lot. “<b>Hello</b>! It&#39;s me! Your mother! Can you&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zT1ODwAAQBAJ",
+      "etag": "5DxTX3SNzsQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zT1ODwAAQBAJ",
+      "volumeInfo": {
+        "title": "TREATMENT FOR LONELINESS: Oprah Said, 'Just Say 'Hello!'",
+        "subtitle": "GOD SAID, 'THESE DO!'",
+        "authors": ["Messenger K. Hezekiah Scipio"],
+        "publisher": "BIBLICAL HEALTH CENTER,INC., 501 (C)3 NONPROFIT",
+        "publishedDate": "2018-02-27",
+        "description": "On February 20, 2014, media queen Oprah Winfrey launched a campaign on CNN against loneliness; she named her initiative, “Just Say Hello!” She also named as her campaign partners her long-time best friend, “CBS This Morning” co-Anchor Gayle King, and CNN’s chief medical correspondent and practicing neurosurgeon Dr. Sanjay Gupta to \"help fight loneliness, lift spirits, and brighten days to save lives\". Researchers have said loneliness can cut off a lifespan by ten years. Oprah’s initiative, if successful, could add ten years of existence to lonely lives, but Oprah is not the first celebrity to launch such altruistic enterprise: Stevie Wonder went that route in 1984 with \"I Just Called to Say I Love You\", and in 1985, Michael Jackson, Lionel Richie, Quincy Jones and a host of superstars with \"We Are the World\". Had those earlier initiatives succeeded, Oprah’s campaign might not be necessary. But, there are also available often overlooked very precious time-tested scientifically backed biblical formulas for combating loneliness some of which are cited in this book in the hope that, perhaps, Oprah and her team may consider using their celebrity positions to help America focus on the things of GOD. For, “no eye has seen, nor ear has heard, and human mind has conceived the things God has prepared for those who love him” (1Cor. 2:9). Hz",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 70,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "3.4.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zT1ODwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zT1ODwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.au/books?id=zT1ODwAAQBAJ&pg=PA34&dq=hello&hl=&cd=13&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=zT1ODwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zT1ODwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "AU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.86,
+          "currencyCode": "AUD"
+        },
+        "retailPrice": {
+          "amount": 14.86,
+          "currencyCode": "AUD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=zT1ODwAAQBAJ&rdid=book-zT1ODwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14860000,
+              "currencyCode": "AUD"
+            },
+            "retailPrice": {
+              "amountInMicros": 14860000,
+              "currencyCode": "AUD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "AU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.au/books/download/TREATMENT_FOR_LONELINESS_Oprah_Said_Just-sample-pdf.acsm?id=zT1ODwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zT1ODwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Hello</b>”, we have mixed feelings. We know in American small towns where everybody knows everybody, people “Just Say <b>Hello</b>” naturally anyhow. If just saying “<b>hello</b>” is the cure for loneliness, we should all pack up our luggage and relocate&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tD5YDgAAQBAJ",
+      "etag": "2r3jHD2LPnI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tD5YDgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Hello Girls",
+        "subtitle": "America’s First Women Soldiers",
+        "authors": ["Elizabeth Cobbs Hoffman", "Elizabeth Cobbs"],
+        "publisher": "Harvard University Press",
+        "publishedDate": "2017-04-06",
+        "description": "In 1918, the U.S. Army Signal Corps sent 223 women to France at General Pershing’s explicit request. They were masters of the latest technology: the telephone switchboard. While suffragettes picketed the White House and President Wilson struggled to persuade a segregationist Congress to give women of all races the vote, these courageous young women swore the army oath and settled into their new roles. Elizabeth Cobbs reveals the challenges they faced in a war zone where male soldiers wooed, mocked, and ultimately celebrated them. The army discharged the last Hello Girls in 1920, the year Congress ratified the Nineteenth Amendment. When they sailed home, they were unexpectedly dismissed without veterans’ benefits and began a sixty-year battle that a handful of survivors carried to triumph in 1979. “What an eye-opener! Cobbs unearths the original letters and diaries of these forgotten heroines and weaves them into a fascinating narrative with energy and zest.” —Cokie Roberts, author of Capital Dames “This engaging history crackles with admiration for the women who served in the U.S. Army Signal Corps during the First World War, becoming the country’s first female soldiers.” —New Yorker “Utterly delightful... Cobbs very adroitly weaves the story of the Signal Corps into that larger story of American women fighting for the right to vote, but it’s the warm, fascinating job she does bringing her cast...to life that gives this book its memorable charisma... This terrific book pays them a long-warranted tribute.” —Christian Science Monitor “Cobbs is particularly good at spotlighting how closely the service of military women like the Hello Girls was tied to the success of the suffrage movement.” —NPR",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780674971479"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0674971477"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 397,
+        "printType": "BOOK",
+        "categories": ["History"],
+        "averageRating": 4,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tD5YDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tD5YDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.au/books?id=tD5YDgAAQBAJ&pg=PA327&dq=hello&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.au/books?id=tD5YDgAAQBAJ&dq=hello&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Hello_Girls.html?hl=&id=tD5YDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "AU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "AU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.au/books/download/The_Hello_Girls-sample-pdf.acsm?id=tD5YDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tD5YDgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Hello</b> Girls,” 285,291. 10. “Co-Ed Will Serve U.S. as <b>Hello</b> Girl,” University of Washington Daily, 15 February 1918, NWWIM. 11. Adele Hoppock to “Dearest Muz,” 25 February–3 March 1918; “Two Sons and a Daughter of A. A. McKillop Wearing&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HL-uCQAAQBAJ",
+      "etag": "+zF66hqnz0A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HL-uCQAAQBAJ",
+      "volumeInfo": {
+        "title": "Hello Able Five",
+        "subtitle": "The Journey of Albert Torreele",
+        "authors": ["Kerstin Trimble"],
+        "publisher": "BoD – Books on Demand",
+        "publishedDate": "2015-05-27",
+        "description": "During his birth on Christmas Day 1916 under a circling, grenade-dropping German warplane, Albert Torreele was blinded in one eye by a panicked midwife. That did not stop him on his tenacious path towards officerhood. He graduated from the Royal Military Academy in Brussels just in time to lead an ill-fated platoon straight into the German onslaught of May 10, 1940. A single shot that should have left him crippled sent him on a grueling odyssey, though his tumbling country to the edge of the hell of Dunkirk, and across the English Channel to the charming seaside town of Tenby where the Belgian forces regrouped and prepared for another chance to fight. Finding old friends and true love in Wales, Albert and his comrades of the Free Belgian Forces set their minds on a single goal - cross the English Channel, take back their home and free their families.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783734797231"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3734797233"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 389,
+        "printType": "BOOK",
+        "categories": ["Fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HL-uCQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HL-uCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.au/books?id=HL-uCQAAQBAJ&pg=PA306&dq=hello&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.au/books?id=HL-uCQAAQBAJ&dq=hello&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hello_Able_Five.html?hl=&id=HL-uCQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "AU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "AU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.au/books/download/Hello_Able_Five-sample-pdf.acsm?id=HL-uCQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HL-uCQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Hello</b> Able Five, <b>hello</b> Able Five.” Albert flung himself on the radio. “Come in!” Through the frizzle, Edmond&#39;s voice said something mumbled, but the gist was clear: “Not getting anywhere here. We&#39;re stuck for now. Over.” “Ten four. Don&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OBvGAgAAQBAJ",
+      "etag": "MLqg+1hkhWM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OBvGAgAAQBAJ",
+      "volumeInfo": {
+        "title": "Hello, Kitty",
+        "subtitle": "an Overhill short story",
+        "authors": ["Misti Wolanski"],
+        "publisher": "Misti Wolanski",
+        "publishedDate": "2014-01-29",
+        "description": "Vampires aren’t (un)dead—they’re just what result when an unseelie fae messes with a human. Most vampires don’t know about their fae origins, but Lyn’s special. So special that she's lethally allergic to sunlight, that she’s lived nearly two centuries but still has to work under the table, and that she REALLY can’t afford to be snacked on. It’s a long story. Here’s part of it.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 17,
+        "printType": "BOOK",
+        "categories": ["Fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OBvGAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OBvGAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.au/books?id=OBvGAgAAQBAJ&pg=PA5&dq=hello&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.au/books?id=OBvGAgAAQBAJ&dq=hello&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hello_Kitty.html?hl=&id=OBvGAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "AU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "AU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OBvGAgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... as she takes in my condition. Not sure if it&#39;s my pallor, skinniness, grungy denim pants, ripped T-shirt, or bare feet that tip her off. “Would... Need some help, pumpkin?” “Not a pumpkin,” I&#39;m a vampire, but I don&#39;t say · 5 · <b>Hello</b>, Kitty."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AahhEAAAQBAJ",
+      "etag": "DbWF4YTX6uU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AahhEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Hello Cleveland",
+        "subtitle": "Things You Should Know About the Most Unique City in the World",
+        "authors": ["Nick Perry"],
+        "publisher": "Microcosm Publishing",
+        "publishedDate": "2022-06-14",
+        "description": "Hello Cleveland unlocks the hidden, larger-than life history and culture of Cleveland, Ohio, possibly the country's most misunderstood city. Locals, visitors, transplants, and people—who moved away as soon as they could—will gain a well-rounded picture of the city's passionate pursuits, dark corners, dubious claims to fame, and disarmingly friendly culture. Nick Perry, who grew up in Cleveland and then moved back as an adult, invites you to join him in taking a loving, brutally honest look under the hood. Develop an appreciation for local celebrities like Devo, Bone Thugs & Harmony, Lil' John and Big Chuck, and Dick Goddard the weather guy. Marvel at landmarks like the Great Lakes, the Metroparks, and the world's largest outdoor chandelier. There are plenty of downsides and none are sugarcoated. You'll discover why Cleveland is the reason for the creation of the Environmental Protection Act and how it's largely to blame for the widespread adoption of suburban city planning. But you can still find a heartwarming pride in rooting for sports teams that seem cursed to lose every championship. As the city's unofficial slogan says, \"You've got to be tough,\" but there's a lot to love—especially when the world-famous Cleveland Orchestra wanders into the dive bar you're sitting in and starts to play an impromptu concert.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781648410840"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1648410847"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 174,
+        "printType": "BOOK",
+        "categories": ["Travel"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AahhEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AahhEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.au/books?id=AahhEAAAQBAJ&pg=PP1&dq=hello&hl=&cd=17&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=AahhEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=AahhEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "AU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 16.57,
+          "currencyCode": "AUD"
+        },
+        "retailPrice": {
+          "amount": 16.57,
+          "currencyCode": "AUD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=AahhEAAAQBAJ&rdid=book-AahhEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 16570000,
+              "currencyCode": "AUD"
+            },
+            "retailPrice": {
+              "amountInMicros": 16570000,
+              "currencyCode": "AUD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "AU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.au/books/download/Hello_Cleveland-sample-epub.acsm?id=AahhEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.au/books/download/Hello_Cleveland-sample-pdf.acsm?id=AahhEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AahhEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Things You Should Know About the Most Unique City in the World Nick Perry. <b>HELLO</b> CLEVELANO EVERYTHING YOU SHOULD KNOW ABOUT THE MOST UNIQUE CITY IN THE WORLD * EA ADHMORE BOOKS Uw WRITTEN BY ILLUSTRATED BY NICK PERRY JASON LOOK <b>HELLO</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rEUxDwAAQBAJ",
+      "etag": "4ZC1i+ceejs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rEUxDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Hello Norman",
+        "authors": ["Karl Iams"],
+        "publisher": "iUniverse",
+        "publishedDate": "2017-08-11",
+        "description": "Norman Riley is unhappy with his planetary mission to characterize mundane rock formations on the desolate Hossa. But this is not the first disagreement between Norman and his employer, the young and brash Jason Alcott of Alcott Enterprises. As Norman concludes that his assignment is a convenient way for the Alcott family to put both him and his spaceship out to pasture, he is propelled into a new territory without any idea of what lies in store for him. After making a startling discovery on Hossa, Norman must jump into action to ensure an important secret is kept safe from human exploitation. Unfortunately, Norman soon realizes Jason has different ideas. Convinced by Normans sudden departure from his companys payroll that he is being tricked out of a valuable ore find, Jason sends his best team to Hossa to reclaim what is rightfully his. Now only time will tell if Norman can pick up the gauntlet and somehow save the day, not just for the universe but also himself. In this science fiction tale, an unlikely hero is propelled on the journey of his life after he makes a shocking discovery on an isolated planet.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781532029158"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1532029152"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 430,
+        "printType": "BOOK",
+        "categories": ["Fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rEUxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rEUxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.au/books?id=rEUxDwAAQBAJ&pg=PT301&dq=hello&hl=&cd=18&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=rEUxDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=rEUxDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "AU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5.49,
+          "currencyCode": "AUD"
+        },
+        "retailPrice": {
+          "amount": 5.49,
+          "currencyCode": "AUD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=rEUxDwAAQBAJ&rdid=book-rEUxDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5490000,
+              "currencyCode": "AUD"
+            },
+            "retailPrice": {
+              "amountInMicros": 5490000,
+              "currencyCode": "AUD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "AU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rEUxDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Hello</b> Tina!” She gave him a wry smile. “<b>Hello</b> Mr. Cunningham, or may I call you Vince since I bullied you into his, ah...” Tina paused, unsure what to say, “this er... meeting.” This was exactly the uncomfortable opening that Cunningham&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "i_N1DQAAQBAJ",
+      "etag": "8DIgSIVFFt0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/i_N1DQAAQBAJ",
+      "volumeInfo": {
+        "title": "Hello Glow",
+        "subtitle": "150+ Easy Natural Beauty Recipes for a Fresh New You",
+        "authors": ["Stephanie Gerber"],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2016-11-15",
+        "description": "\"150+ easy natural beauty recipes for a fresh new you\"--Cover.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781681881560"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "168188156X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 78,
+        "printType": "BOOK",
+        "categories": ["Health & Fitness"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=i_N1DQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=i_N1DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.au/books?id=i_N1DQAAQBAJ&pg=PT12&dq=hello&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.au/books?id=i_N1DQAAQBAJ&dq=hello&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hello_Glow.html?hl=&id=i_N1DQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "AU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "AU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=i_N1DQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Hello</b>, beautiful! Yes, I mean you. While everyone has something they&#39;d love to change about their face&#39;s texture or tone, a natural beauty regimen does more than fix your so-called problem areas. Instead, it&#39;s all about feeling&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "i3q7EAAAQBAJ",
+      "etag": "r4c8OnWVzkk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/i3q7EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Kiss Me Hello",
+        "subtitle": "The Sweetest Kisses--Book Three",
+        "authors": ["Grace Burrowes"],
+        "publisher": "Grace Burrowes",
+        "publishedDate": "2023-03",
+        "description": "Her Knightley in shining armor... MacKenzie Knightley is the best criminal trial attorney in Damson County, but he has no defense against petite, peppery Sidonie Lindstrom, a foster mom who’s moved into the farmhouse where Mac and his brothers grew up. … he most assuredly is not! Sid is grieving the loss of her brother, worried she’s about to lose her foster care license, and in no mood for romantic nonsense when Mac drives up the lane. And yet, he’s good with her horses, good with her foster son, and just the sort of solid, trustworthy, guy she might fall for—until she learns that he’s not at all what he appears to be. NOTE: The Sweetest Kisses series was originally published in 2015, and went on hiatus in 2022. The republished versions are slightly revised and sporting spiffy new covers!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781956975611"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1956975616"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 359,
+        "printType": "BOOK",
+        "categories": ["Fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=i3q7EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=i3q7EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.au/books?id=i3q7EAAAQBAJ&pg=PT105&dq=hello&hl=&cd=20&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=i3q7EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=i3q7EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "AU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 8.25,
+          "currencyCode": "AUD"
+        },
+        "retailPrice": {
+          "amount": 8.25,
+          "currencyCode": "AUD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=i3q7EAAAQBAJ&rdid=book-i3q7EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 8250000,
+              "currencyCode": "AUD"
+            },
+            "retailPrice": {
+              "amountInMicros": 8250000,
+              "currencyCode": "AUD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "AU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=i3q7EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Hello</b> , Lindy . You come to spoil your horse ? &quot; &quot; He&#39;s not legally mine , &quot; she said . &quot; Except he&#39;s mine to love . <b>Hello</b> . &quot; The child directed the last greeting to Sid . &quot; <b>Hello</b> . ” Sid extended a hand . “ My name&#39;s Sid . &quot; &quot; Lindy&nbsp;..."
+      }
+    }
+  ]
+}
