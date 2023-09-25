@@ -14,40 +14,117 @@
 
 .card {
   display: flex;
+  flex-direction: column;
   gap: 15px;
   padding: 15px;
   justify-content: space-between;
   align-items: center;
-  width: 800px;
-  max-width: 60vw;
+  width: 60vw;
+  max-width: 700px;
   background-color: palette.$bg-color;
   z-index: 2;
   position: fixed;
   top: 15vh;
   border-radius: 5px;
+  gap: 25px;
+  max-height: 60vh;
+  overflow: auto;
+  background-color: palette.$yellow-light;
+
+  opacity: 0;
+  transform: scale(0.8);
+  transition: opacity 0.3s, visibility 0.5s, transform 0.5s;
+  z-index: 1000;
+
+  &__visible {
+    z-index: 1000;
+    visibility: visible;
+    opacity: 1;
+    transform: scale(1);
+  }
 
   @include mixins.phone {
+    width: 80vw;
+    font-size: 0.8em;
+    gap: 10px;
   }
 
-  &__title {
-    margin: 0;
-  }
-
-  &__details {
+  &__top {
     display: flex;
-    flex-direction: column;
-    justify-content: baseline;
-    overflow: auto;
-    max-height: 60vh;
-  }
+    width: 100%;
+    justify-content: space-between;
+    min-height: 100px;
 
-  & p span {
-    font-weight: bold;
+    &__details {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      font-size: 0.9em;
+      & p span {
+        font-weight: bold;
+      }
+    }
+    &__title {
+      font-weight: bolder;
+      font-size: 1.3em;
+      @include mixins.tablet {
+        font-size: 1em;
+      }
+    }
   }
 
   &__image {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+    width: 20%;
+    min-width: 70px;
+    box-shadow: 2px 3px 11px 0px rgba(0, 0, 0, 0.6);
+  }
+
+  &__desc {
+    font-size: 0.9em;
+    text-align: justify;
+
+    &__label {
+      font-weight: bold;
+    }
   }
 }
+
+// .card {
+// display: flex;
+// flex-direction: column;
+// gap: 15px;
+// padding: 15px;
+// justify-content: space-between;
+// align-items: center;
+// width: 800px;
+// max-width: 60vw;
+// background-color: palette.$bg-color;
+// z-index: 2;
+// position: fixed;
+// top: 15vh;
+// border-radius: 5px;
+
+//   @include mixins.phone {
+//   }
+
+//   &__title {
+//     margin: 0;
+//   }
+
+//   &__details {
+//     display: flex;
+//     justify-content: baseline;
+//     overflow: auto;
+//     max-height: 60vh;
+//   }
+
+// & p span {
+//   font-weight: bold;
+// }
+
+//   &__image {
+//     display: flex;
+//     flex-direction: column;
+//     justify-content: center;
+//   }
+// }

@@ -30,11 +30,11 @@ const BooksList = ({ searchTerm }) => {
 
   return (
     <div className={styles.booksList}>
-      {books.map((book, i) => {
+      {books.map((book, index) => {
         return (
           <BookCard
-            key={i}
-            index={i}
+            key={index}
+            index={index}
             data={book}
             showModal={toggleShowModal}
             setIndex={changeModalIndex}
@@ -43,7 +43,11 @@ const BooksList = ({ searchTerm }) => {
       })}
 
       {showModal && (
-        <Modal showModal={toggleShowModal} item={{ ...books[modalIndex] }} />
+        <Modal
+          toggleShowModal={toggleShowModal}
+          modalIsShown={showModal}
+          item={{ ...books[modalIndex] }}
+        />
       )}
     </div>
   );

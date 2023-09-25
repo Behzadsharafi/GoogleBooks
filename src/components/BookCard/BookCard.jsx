@@ -2,7 +2,7 @@ import styles from "./BookCard.module.scss";
 import noImageAvailable from "../../assets/NoImageAvailable.png";
 
 const BookCard = ({ data, index, showModal, setIndex }) => {
-  const { title, author, image, description } = data;
+  const { title, author, image, releaseDate } = data;
 
   const handleClick = (index) => {
     showModal();
@@ -17,18 +17,15 @@ const BookCard = ({ data, index, showModal, setIndex }) => {
       }}
     >
       <div className={styles.bookCard__details}>
-        <h4 className={styles.bookCard__title}> {data.title}</h4>
+        <h4 className={styles.bookCard__title}> {title}</h4>
         <p className={styles.bookCard__author}>
-          {" "}
-          <span>Author:</span> {data.author}
+          <span>Author:</span> {author || "Not available"}
         </p>
         <p>
-          {" "}
-          <span> Release Date:</span> {data.releaseDate}
+          <span> Release Date:</span> {releaseDate || "Not available"}
         </p>
       </div>
-      <img src={data.image || noImageAvailable} alt="book's image" />
-      {/* <img src={data.image || noImage} alt="book's image" /> */}
+      <img src={image || noImageAvailable} alt="book's image" />
     </article>
   );
 };
