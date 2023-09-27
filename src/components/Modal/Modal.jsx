@@ -3,15 +3,7 @@ import styles from "./Modal.module.scss";
 import noImageAvailable from "../../assets/NoImageAvailable.png";
 
 const Modal = ({ toggleShowModal, item, modalIsShown }) => {
-  const {
-    title,
-    author,
-    description,
-    image,
-    language,
-    googleBooks,
-    releaseDate,
-  } = item;
+  const { title, author, description, image, language, releaseDate } = item;
 
   useEffect(() => {
     if (!modalIsShown) {
@@ -26,16 +18,10 @@ const Modal = ({ toggleShowModal, item, modalIsShown }) => {
     return () => window.removeEventListener("keydown", escapeListen);
   }, [modalIsShown]);
 
-  const modalStyle = `${styles.card} ${
-    modalIsShown ? styles.card__visible : ""
-  }`;
-
-  console.log(modalIsShown);
-
   return (
     <>
       <div className={styles.overlay} onClick={toggleShowModal}></div>
-      <article className={modalStyle}>
+      <article className={styles.card}>
         <section className={styles.card__top}>
           <div className={styles.card__top__details}>
             <h3 className={styles.card__top__title}> {title}</h3>

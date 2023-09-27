@@ -1,11 +1,15 @@
 import BookCard from "../BookCard/BookCard";
+import Error from "../Error/Error";
 import styles from "./BooksList.module.scss";
 import { fetchBooks } from "../../services/fetchBooks";
 import { useEffect, useState } from "react";
 import Modal from "../Modal/Modal";
+import Loading from "../Loading/Loading";
 
 const BooksList = ({ searchTerm }) => {
   const [books, setBooks] = useState([]);
+  const [error, setError] = useState(null);
+  const [loading, setLoading] = useState(false);
   const [modalIndex, setModalIndex] = useState(null);
   const [showModal, setShowModal] = useState(false);
 
@@ -14,10 +18,17 @@ const BooksList = ({ searchTerm }) => {
       return;
     }
     setBooks([]);
+    setError(null);
+    setLoading(true);
 
-    fetchBooks(searchTerm).then((books) => {
-      setBooks(books);
-    });
+    fetchBooks(searchTerm)
+      .then((books) => {
+        setBooks(books);
+      })
+      .catch((e) => {
+        setError(e);
+      })
+      .finally(() => setLoading(false));
   }, [searchTerm]);
 
   const toggleShowModal = () => {
@@ -30,17 +41,18 @@ const BooksList = ({ searchTerm }) => {
 
   return (
     <div className={styles.booksList}>
-      {books.map((book, index) => {
-        return (
-          <BookCard
-            key={index}
-            index={index}
-            data={book}
-            showModal={toggleShowModal}
-            setIndex={changeModalIndex}
-          />
-        );
-      })}
+      {loading && <Loading />}
+      {!loading && error && <Error searchTerm={searchTerm} />}
+
+      {books.map((book, index) => (
+        <BookCard
+          key={index}
+          index={index}
+          data={book}
+          showModal={toggleShowModal}
+          setIndex={changeModalIndex}
+        />
+      ))}
 
       {showModal && (
         <Modal
