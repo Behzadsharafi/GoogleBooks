@@ -6,10 +6,10 @@ import { useEffect, useState } from "react";
 import Modal from "../Modal/Modal";
 import Loading from "../Loading/Loading";
 
-const BooksList = ({ searchTerm }) => {
+const BooksList = ({ searchTerm, emptySearch }) => {
   const [books, setBooks] = useState([]);
   const [error, setError] = useState(null);
-  const [loading, setLoading] = useState(false);
+  const [loading, setLoading] = useState(null);
   const [modalIndex, setModalIndex] = useState(null);
   const [showModal, setShowModal] = useState(false);
 
@@ -17,6 +17,7 @@ const BooksList = ({ searchTerm }) => {
     if (!searchTerm) {
       return;
     }
+
     setBooks([]);
     setError(null);
     setLoading(true);
@@ -41,18 +42,22 @@ const BooksList = ({ searchTerm }) => {
 
   return (
     <div className={styles.booksList}>
-      {loading && <Loading />}
-      {!loading && error && <Error searchTerm={searchTerm} />}
+      {emptySearch && <Error searchTerm={null} />}
 
-      {books.map((book, index) => (
-        <BookCard
-          key={index}
-          index={index}
-          data={book}
-          showModal={toggleShowModal}
-          setIndex={changeModalIndex}
-        />
-      ))}
+      {loading && <Loading />}
+      {!loading && !emptySearch && error && <Error searchTerm={searchTerm} />}
+
+      {!emptySearch &&
+        books.length > 0 &&
+        books.map((book, index) => (
+          <BookCard
+            key={index}
+            index={index}
+            data={book}
+            showModal={toggleShowModal}
+            setIndex={changeModalIndex}
+          />
+        ))}
 
       {showModal && (
         <Modal
@@ -66,17 +71,3 @@ const BooksList = ({ searchTerm }) => {
 };
 
 export default BooksList;
-
-// const BooksList = (data) => {
-// const numberOfItems = [
-//   1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20,
-// ];
-
-//   return (
-//     <div className={styles.booksList}>
-//       { numberOfItems.map((item, index) => (
-//         <BookCard key={index}>Hello</BookCard>
-//       ))}
-//     </div>
-//   );
-// };

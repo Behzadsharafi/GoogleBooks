@@ -17,14 +17,16 @@ const cleanedData = (data) => {
 };
 
 export const fetchBooks = async (searchTerm) => {
+  const apiKey = "AIzaSyAmmNmQtSvaZbbermSfT3i_obTF1Bi6uX8";
   const response = await fetch(
-    `https://www.googleapis.com/books/v1/volumes?q=${searchTerm}&maxResults=20`,
+    `https://www.googleapis.com/books/v1/volumes?q=${searchTerm}&maxResults=20&key=${apiKey}`,
     {
       headers: {
         Accept: "application/json",
       },
     }
   );
+
   if (!response.ok) {
     throw new Error("Failed to fetch data");
   }

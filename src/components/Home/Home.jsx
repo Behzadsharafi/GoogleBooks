@@ -7,8 +7,14 @@ import Footer from "../Footer/Footer";
 
 const Home = () => {
   const [searchTerm, setSearchTerm] = useState(null);
+  const [emptySearch, setEmptySearch] = useState(null);
 
   const handleSubmit = (searchTerm) => {
+    if (!searchTerm) {
+      setEmptySearch(true);
+      return;
+    }
+    setEmptySearch(false);
     setSearchTerm(searchTerm);
   };
 
@@ -17,7 +23,7 @@ const Home = () => {
       <Header />
       <main className={styles.main}>
         <Form onSubmit={handleSubmit} />
-        <BooksList searchTerm={searchTerm} />
+        <BooksList emptySearch={emptySearch} searchTerm={searchTerm} />
       </main>
       <Footer />
     </div>
