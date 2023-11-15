@@ -1,6 +1,6 @@
 # Google Books
 
-A single page that enables the users to search for books and get more details about a certain title.
+This a single page application that enables the users to search for books and get more details about a certain title.
 
 ## Technologies
 
@@ -15,8 +15,8 @@ Backend:
 
 ## Build Steps
 
-1. Clone the repository: git clone git@github.com:your-username/React-eShop.git
-2. Navigate to the project folder: cd portfolio
+1. Clone the repository: git clone git@github.com:your-username/GoogleBooks.git
+2. Navigate to the project folder: cd GoogleBooks
 3. Install the necessary dependencies: npm install
 4. Start the application: npm run dev
 
@@ -28,4 +28,4 @@ Backend:
 ## Future Goals
 
 - Adding pagination to the available items.
-- Adding tests to the components.
+- Adding unit tests to the components.
