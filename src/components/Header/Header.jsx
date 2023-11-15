@@ -5,7 +5,7 @@ const Header = () => {
     <div className={styles.header}>
       <img src="../assets/Header.jpg" alt="Header Image" />
       <h1 className={styles.header__title}>
-        We help you find amazing books on any topic!{" "}
+        We help you find amazing books on any topic!!
       </h1>
     </div>
   );
