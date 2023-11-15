@@ -1,6 +1,6 @@
 # Google Books
 
-This a single page application that enables the users to search for books and get more details about a certain title.
+This is a single page application that enables the user to search for books and get more details about a certain title.
 
 [Launch the Live Site](https://zadbooks.netlify.app)
 
