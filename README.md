@@ -6,8 +6,10 @@ A single page that enables the users to search for books and get more details ab
 
 Frontend:
 
-- ![React Icon](./src/assets/React.png) React
-- ![SCSS Icon](./src/assets/Sass.png) SCSS
+Frontend:
+
+- <img src="./src/assets/React.png" alt="React Icon" width="50"> React
+- <img src="./src/assets/Sass.png" alt="SCSS Icon" width="50"> SCSS
 
 Backend: Google Books API
 
