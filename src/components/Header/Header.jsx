@@ -8,7 +8,7 @@ const Header = () => {
         alt="Header Image"
       />
       <h1 className={styles.header__title}>
-        We help you find amazing books on any topic!
+        We help you find amazing books on any topic!!
       </h1>
     </div>
   );
