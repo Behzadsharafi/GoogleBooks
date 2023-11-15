@@ -8,10 +8,12 @@ Frontend:
 
 Frontend:
 
-- <img src="./src/assets/React.png" alt="React Icon" width="50"> React
-- <img src="./src/assets/Sass.png" alt="SCSS Icon" width="50"> SCSS
+- <img src="./src/assets/React.png" alt="React Icon" width="20"> React
+- <img src="./src/assets/Sass.png" alt="SCSS Icon" width="20"> SCSS
 
 Backend: Google Books API
+
+- <img src="./src/assets/GoogleBooks.PNG" alt="GoogleBooks Icon" width="20"> Google Books API
 
 ## Build Steps
 
