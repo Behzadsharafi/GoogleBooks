@@ -1,17 +1,15 @@
 # Google Books
 
-A single page that enables the users to search for books and get more details about a certain title. I used React.JS and SCSS for front-end and utilized google books API as the backend.
+A single page that enables the users to search for books and get more details about a certain title.
 
 ## Technologies
-
-Frontend:
 
 Frontend:
 
 - <img src="./src/assets/React.png" alt="React Icon" width="20"> React
 - <img src="./src/assets/Sass.png" alt="SCSS Icon" width="20"> SCSS
 
-Backend: Google Books API
+Backend:
 
 - <img src="./src/assets/GoogleBooks.PNG" alt="GoogleBooks Icon" width="20"> Google Books API
 
