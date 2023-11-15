@@ -29,5 +29,5 @@ Backend:
 
 ## Future Goals
 
-- Adding pagination to the available items.
+- Paginating the results.
 - Adding unit tests to the components.
