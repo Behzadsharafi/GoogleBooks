@@ -79,6 +79,7 @@ Please read the [Code of Conduct](https://github.com/Behzadsharafi/GoogleBooks/b
 - [React Js](https://react.dev/) : frontend
 - [SASS](https://sass-lang.com/): styling
 - [Google API](https://developers.google.com/books): API
+- [Testing](https://vitest.dev/): testing
 
 ## :warning: License
 
