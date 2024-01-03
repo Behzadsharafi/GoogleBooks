@@ -1,33 +1,88 @@
-# Google Books
+<div align='center'>
 
-This is a single page application that enables the user to search for books and get more details about a certain title.
+<h1> 📘 Google Books API 📚</h1>
+<p>A platform that enables the users to search for books by title, author, etc. By clicking on each search result a modal opens up with more information about each title. I used React.JS and SCSS for front-end and utilized google books API as the backend.</p>
 
-[Launch the Live Site](https://zadbooks.netlify.app)
+<h4> <a href="https://zadbooks.netlify.app/">View Live Site</a> <span> · </span> <a href="https://github.com/Behzadsharafi/GoogleBooks/issues"> Report a Bug </a> <span> · </span> <a href="https://github.com/Behzadsharafi/GoogleBooks/issues"> Request a Feature </a> </h4>
 
-## Technologies
+</div>
 
-Frontend:
+# :notebook_with_decorative_cover: Table of Contents
 
-- <img src="./src/assets/React.png" alt="React Icon" width="20"> React
-- <img src="./src/assets/Sass.png" alt="SCSS Icon" width="20"> SCSS
+- [About the Project](#star2-about-the-project)
+  - [Quick Demo](#camera-quick-demo)
+  - [Features](#dart-features)
+- [Getting Started](#toolbox-getting-started)
+  - [Run Locally](#running-run-locally)
+- [Contributing](#wave-contributing)
+  - [Code of Conduct](#scroll-code-of-conduct)
+  - [Built With](#computer-built-with)
+- [License](#warning-license)
+- [Contact](#handshake-contact)
 
-Backend:
+## :star2: About the Project
 
-- <img src="./src/assets/GoogleBooks.PNG" alt="GoogleBooks Icon" width="20"> Google Books API
+### :camera: Quick Demo
 
-## Build Steps
+<div align="center"> <a href="https://zadbooks.netlify.app/"><img src="/src/assets/demo.gif" alt='demo' width='800'/></a> </div>
 
-1. Clone the repository: git clone git@github.com:your-username/GoogleBooks.git
-2. Navigate to the project folder: cd GoogleBooks
-3. Install the necessary dependencies: npm install
-4. Start the application: npm run dev
-
-## Features
+### :dart: Features
 
 - The user can search by title, author, genre, etc.
 - By clicking on each result a modal opens with more information about the title.
 
-## Future Goals
+## :toolbox: Getting Started
 
-- Paginating the results.
-- Adding unit tests to the components.
+### :running: Run Locally
+
+Clone the project
+
+```bash
+  git clone git@github.com:Behzadsharafi/GoogleBooks.git
+```
+
+Go to the project directory
+
+```bash
+  cd GoogleBooks
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
+## :wave: Contributing
+
+<a href="https://github.com/Behzadsharafi/GoogleBooks/graphs/contributors"> <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" /> </a>
+
+Contributions are always welcome!
+
+See [Contributing](https://github.com/Behzadsharafi/GoogleBooks/blob/master/CONTRIBUTING.md) for ways to get started.
+
+### :scroll: Code of Conduct
+
+Please read the [Code of Conduct](https://github.com/Behzadsharafi/GoogleBooks/blob/master/CODE_OF_CONDUCT.md).
+
+## :computer: Built With
+
+- [React Js](https://react.dev/) : frontend
+- [SASS](https://sass-lang.com/): styling
+- [Google API](https://developers.google.com/books): API
+
+## :warning: License
+
+Distributed under the MIT License. See [License](https://github.com/Behzadsharafi/React-eShop/blob/master/LICENSE) for more information.
+
+## :handshake: Contact
+
+Email: behzadsharafi@gmail.com
+
+Linkedin: [https://www.linkedin.com/in/zadsharafi/](https://www.linkedin.com/in/zadsharafi/)
