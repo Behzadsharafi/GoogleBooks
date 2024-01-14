@@ -17,7 +17,7 @@ const cleanedData = (data) => {
 };
 
 export const fetchBooks = async (searchTerm) => {
-  const apiKey = process.env.API_KEY;
+  const apiKey = import.meta.env.VITE_API_KEY;
   const response = await fetch(
     `https://www.googleapis.com/books/v1/volumes?q=${searchTerm}&maxResults=20&key=${apiKey}`,
     {
