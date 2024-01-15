@@ -17,9 +17,8 @@ const cleanedData = (data) => {
 };
 
 export const fetchBooks = async (searchTerm) => {
-  const apiKey = import.meta.env.VITE_API_KEY;
   const response = await fetch(
-    `https://www.googleapis.com/books/v1/volumes?q=${searchTerm}&maxResults=20&key=${apiKey}`,
+    `https://www.googleapis.com/books/v1/volumes?q=${searchTerm}&maxResults=20&key=AIzaSyAmmNmQtSvaZbbermSfT3i_obTF1Bi6uX8`,
     {
       headers: {
         Accept: "application/json",
